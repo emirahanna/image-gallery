@@ -1,4 +1,6 @@
-Boilerplate based on OpenWC intended to quick start publishing on Vercel and web components.
+final web development project showcasing an image gallery with button navigation, and other fun effects
+
+
 ## Scripts
 
 - `start` runs your app for development, reloading on file changes
